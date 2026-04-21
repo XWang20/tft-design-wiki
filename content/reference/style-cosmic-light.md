@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Cosmic Light
 
+![cosmic_light token showcase](assets/cosmic_light.png)
+
+
 > Clean celestial theme with lavender accents and soft gradients
 
 **分类**: 亮色 · **ID**: `cosmic_light`

@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Pastel Pop
 
+![pastel_pop token showcase](assets/pastel_pop.png)
+
+
 > Playful multi-pastel, light and fun for casual/beginner content
 
 **分类**: 亮色 · **ID**: `pastel_pop`

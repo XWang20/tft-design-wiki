@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Neon Cyber
 
+![neon token showcase](assets/neon.png)
+
+
 > Dark cyberpunk theme with neon cyan/magenta accents for data-heavy content
 
 **分类**: 暗色 · **ID**: `neon`

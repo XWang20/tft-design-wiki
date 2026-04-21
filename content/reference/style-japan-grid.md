@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Japan Grid
 
+![japan_grid token showcase](assets/japan_grid.png)
+
+
 > Japanese neutral grid, quiet and modular with thin dividers
 
 **分类**: 亮色 · **ID**: `japan_grid`

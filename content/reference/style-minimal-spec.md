@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Minimal Spec
 
+![minimal_spec token showcase](assets/minimal_spec.png)
+
+
 > Swiss grid, technical document, precise and clean
 
 **分类**: 亮色 · **ID**: `minimal_spec`

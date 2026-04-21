@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Hextech
 
+![hextech token showcase](assets/hextech.png)
+
+
 > Blue + gold League of Legends Hextech aesthetic, tech-themed
 
 **分类**: 暗色 · **ID**: `hextech`

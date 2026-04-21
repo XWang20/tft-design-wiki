@@ -8,6 +8,9 @@ tags: [visual-identity, color, mixed]
 
 # Glassmorphism
 
+![glassmorphism token showcase](assets/glassmorphism.png)
+
+
 > Frosted glass cards on gradient backgrounds, modern overlay style
 
 **分类**: 混合 · **ID**: `glassmorphism`

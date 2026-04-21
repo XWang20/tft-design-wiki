@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Tarot Gold
 
+![tarot_gold token showcase](assets/tarot_gold.png)
+
+
 > Mysterious premium, black + gold, rare/legendary reveals
 
 **分类**: 暗色 · **ID**: `tarot_gold`

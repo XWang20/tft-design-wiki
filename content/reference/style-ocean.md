@@ -8,6 +8,9 @@ tags: [visual-identity, color, cool]
 
 # Ocean
 
+![ocean token showcase](assets/ocean.png)
+
+
 > Deep blue ocean tones with teal accents, calm and professional
 
 **分类**: 冷色 · **ID**: `ocean`

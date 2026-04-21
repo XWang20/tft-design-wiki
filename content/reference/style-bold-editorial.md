@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Bold Editorial
 
+![bold_editorial token showcase](assets/bold_editorial.png)
+
+
 > Magazine poster style, one bold message per page, red accent
 
 **分类**: 亮色 · **ID**: `bold_editorial`

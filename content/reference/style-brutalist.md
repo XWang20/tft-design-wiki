@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Brutalist
 
+![brutalist token showcase](assets/brutalist.png)
+
+
 > High-impact event poster, maximum contrast, tilted elements
 
 **分类**: 暗色 · **ID**: `brutalist`

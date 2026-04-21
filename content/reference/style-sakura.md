@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Sakura
 
+![sakura token showcase](assets/sakura.png)
+
+
 > Soft pink and blush tones inspired by cherry blossoms, feminine and elegant
 
 **分类**: 亮色 · **ID**: `sakura`

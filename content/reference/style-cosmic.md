@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Cosmic
 
+![cosmic token showcase](assets/cosmic.png)
+
+
 > S17 seasonal, purple-pink nebula gradients, deep space feel
 
 **分类**: 暗色 · **ID**: `cosmic`

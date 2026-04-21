@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Graphite
 
+![graphite token showcase](assets/graphite.png)
+
+
 > Dark, neon-accented, data-dense style for impact
 
 **分类**: 暗色 · **ID**: `graphite`

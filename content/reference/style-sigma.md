@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Sigma
 
+![sigma token showcase](assets/sigma.png)
+
+
 > TFTable signature style — SigmaSerif headlines + SigmaSans body on warm white, red accent. Used for unit cards, trait cards, and production infographics.
 
 **分类**: 亮色 · **ID**: `sigma`

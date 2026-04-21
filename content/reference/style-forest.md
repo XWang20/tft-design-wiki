@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Forest
 
+![forest token showcase](assets/forest.png)
+
+
 > Natural earthy greens with warm wood tones, organic and grounded feel
 
 **分类**: 亮色 · **ID**: `forest`

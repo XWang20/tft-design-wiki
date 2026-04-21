@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Gradient Tech
 
+![gradient_tech token showcase](assets/gradient_tech.png)
+
+
 > Clean, modern, data-forward style with gold-to-purple gradient accents
 
 **分类**: 亮色 · **ID**: `gradient_tech`

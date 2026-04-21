@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Heatmap
 
+![heatmap token showcase](assets/heatmap.png)
+
+
 > Data visualization, heat gradient overlays for win rate matrices
 
 **分类**: 暗色 · **ID**: `heatmap`

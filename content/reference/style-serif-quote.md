@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Serif Quote
 
+![serif_quote token showcase](assets/serif_quote.png)
+
+
 > Magazine cover, elegant restraint, serif typography
 
 **分类**: 亮色 · **ID**: `serif_quote`

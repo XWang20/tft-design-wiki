@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Amber Dark
 
+![amber_dark token showcase](assets/amber_dark.png)
+
+
 > Warm dark theme with amber/gold accents, cozy evening feel
 
 **分类**: 暗色 · **ID**: `amber_dark`

@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Ink Wash
 
+![ink_wash token showcase](assets/ink_wash.png)
+
+
 > Eastern calligraphy, ink-on-paper, CN-specific artistic
 
 **分类**: 亮色 · **ID**: `ink_wash`

@@ -8,6 +8,9 @@ tags: [visual-identity, color, warm]
 
 # Sunset
 
+![sunset token showcase](assets/sunset.png)
+
+
 > Warm sunset gradients with amber and coral, vibrant and energetic
 
 **分类**: 暖色 · **ID**: `sunset`

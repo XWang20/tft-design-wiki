@@ -8,6 +8,9 @@ tags: [visual-identity, color, dark]
 
 # Midnight
 
+![midnight token showcase](assets/midnight.png)
+
+
 > Deep navy dark theme with gold accents, luxurious and premium feel
 
 **分类**: 暗色 · **ID**: `midnight`

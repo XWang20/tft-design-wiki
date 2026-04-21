@@ -8,6 +8,9 @@ tags: [visual-identity, color, light]
 
 # Cream
 
+![cream token showcase](assets/cream.png)
+
+
 > Warm, approachable, Xiaohongshu-native style with orange accents
 
 **分类**: 亮色 · **ID**: `cream`
