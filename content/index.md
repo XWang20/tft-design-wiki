@@ -1,7 +1,7 @@
 # Wiki Index
 
 > TFTable做图体系知识库。设计思想、架构决策、经验教训、工作流。
-> Last updated: 2026-04-21 | Total pages: 12
+> Last updated: 2026-04-21 | Total pages: 37
 
 ## Principles
 - [[data-is-truth]] — 所有数据必须来自API，翻译必须来自glossary
@@ -24,3 +24,11 @@
 
 ## Reference
 - [[design-tokens]] — 颜色、字号、间距、组件尺寸完整参考表
+- [[style-gallery]] — **24个风格版总览和选择指南**
+
+### Style Pages (24)
+**亮色**: [[style-cream]] · [[style-sigma]] · [[style-cosmic-light]] · [[style-gradient-tech]] · [[style-forest]] · [[style-ocean]] · [[style-sakura]] · [[style-sunset]] · [[style-bold-editorial]] · [[style-minimal-spec]] · [[style-serif-quote]] · [[style-japan-grid]] · [[style-ink-wash]] · [[style-pastel-pop]]
+
+**暗色**: [[style-graphite]] · [[style-midnight]] · [[style-cosmic]] · [[style-neon]] · [[style-hextech]] · [[style-brutalist]] · [[style-tarot-gold]] · [[style-amber-dark]] · [[style-heatmap]]
+
+**混合**: [[style-glassmorphism]]

@@ -9,19 +9,6 @@ sources: [social-media/design-tokens.css, image-studio/web/src/index.css]
 
 # Design Tokens
 
-## 风格版索引
-
-| 主题 | 类型 | 用途 |
-|------|------|------|
-| [[theme-warm]] | 浅色 | 小红书/抖音（默认） |
-| [[theme-dark]] | 深色 | Twitter/Reddit |
-| [[theme-cosmic-light]] | 浅色 | 宇宙淡紫风 |
-| [[theme-dreamy]] | 浅色 | 梦幻柔色 |
-| [[theme-gods]] | 深色 | 科幻/神话 |
-| [[theme-forest]] | 深色 | 森林绿 |
-| [[theme-sakura]] | 浅色 | 樱花蓝粉 |
-| [[theme-sunset]] | 深色 | 日落沙滩 |
-
 > 查阅型参考。关于**为什么**这样选，看 [[cream-style-evolution]] 和 [[context-over-defaults]]。
 
 ## Canvas
