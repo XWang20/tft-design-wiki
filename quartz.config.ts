@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "localhost:8080",
+    baseUrl: "xwang20.github.io/tftable-wiki",
     ignorePatterns: ["private", "templates", ".obsidian", "raw"],
     defaultDateType: "modified",
     theme: {
