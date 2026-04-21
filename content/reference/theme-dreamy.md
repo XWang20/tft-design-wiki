@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Dreamy 梦幻柔色主题
 
+![dreamy preview](images/theme_preview_dreamy.png)
+
 **类型：** 浅色主题（Light）
 **用途：** 柔和梦幻风格，浅蓝紫渐变背景。
 

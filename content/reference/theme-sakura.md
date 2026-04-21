@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Sakura 樱花蓝粉浅色主题
 
+![sakura preview](images/theme_preview_sakura.png)
+
 **类型：** 浅色主题（Light）
 **用途：** 樱花粉+蓝色点缀的浅色风格。
 

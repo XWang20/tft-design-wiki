@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Warm/Cream 暖色主题
 
+![warm preview](images/theme_preview_warm.png)
+
 **类型：** 浅色主题（Light）
 **用途：** 小红书、抖音等中文社媒图。默认主题。
 

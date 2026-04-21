@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Gods 深色科幻主题
 
+![gods preview](images/theme_preview_gods.png)
+
 **类型：** 深色主题（Dark）
 **用途：** 科幻/神话感深色风格，深蓝黑背景。
 

@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Dark 深色主题
 
+![dark preview](images/theme_preview_dark.png)
+
 **类型：** 深色主题（Dark）
 **用途：** Twitter、Reddit 等海外社媒图。
 

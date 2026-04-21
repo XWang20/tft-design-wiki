@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Cosmic Light 淡紫主题
 
+![cosmic_light preview](images/theme_preview_cosmic_light.png)
+
 **类型：** 浅色主题（Light）
 **用途：** 宇宙/星空感浅色风格，带星星粒子装饰。
 

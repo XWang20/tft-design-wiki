@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Forest 森林绿深色主题
 
+![forest preview](images/theme_preview_forest.png)
+
 **类型：** 深色主题（Dark）
 **用途：** 自然/森林感深色风格。
 

@@ -5,6 +5,8 @@ tags: [reference, theme]
 
 # Theme: Sunset 日落沙滩深色主题
 
+![sunset preview](images/theme_preview_sunset.png)
+
 **类型：** 深色主题（Dark）
 **用途：** 暖色调深色风格，日落/沙滩氛围。
 
