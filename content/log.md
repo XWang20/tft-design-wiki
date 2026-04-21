@@ -1,18 +1,19 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [YYYY-MM-DD] action | subject`
-> Actions: ingest, update, query, lint, create, archive, delete
-> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
 ## [2026-04-21] create | Wiki initialized
-- Domain: TFTable社交媒体做图系统
+- Domain: TFTable做图体系
 - Structure created with SCHEMA.md, index.md, log.md
 
-## [2026-04-21] ingest | workspace-tftable full codebase
-- Source: /home/xing/.openclaw/workspace-tftable/
-- Ingested 85 Python scripts, 20+ markdown docs, image-studio codebase
-- Created 5 entity pages: image-studio, playwright-renderer, preflight, tftable-api, cdragon
-- Created 8 concept pages: design-system, rendering-pipeline, data-pipeline, content-types, lessons-and-bugs, theme-system, scripts-architecture, bilingual-output
-- Created 1 comparison page: script-vs-ai-generation
-- Total: 13 wiki pages + SCHEMA + index + log
+## [2026-04-21] restructure | Impeccable-inspired rewrite
+- Borrowed from Impeccable skill philosophy: teach design thinking, not list tokens
+- Old structure (entities/concepts/comparisons/queries) → New structure (principles/decisions/pitfalls/workflows/reference)
+- Created 12 pages:
+  - principles/: data-is-truth, rewrite-over-patch, subtraction-first, context-over-defaults
+  - decisions/: no-dark-theme, ai-vs-scripts, cream-style-evolution
+  - pitfalls/: data-gotchas, preflight
+  - workflows/: rendering-pipeline, bilingual-content
+  - reference/: design-tokens (comprehensive token table extracted from workspace CSS)
+- Key change: design tokens in reference/ layer (lookup, not learning), principles teach WHY
+- SCHEMA.md updated: reference层明确包含tokens，不再排斥
